@@ -1,0 +1,74 @@
+{
+  "checks": [
+    {
+      "name": "direct Suoming route",
+      "passed": true
+    },
+    {
+      "name": "three real cards",
+      "passed": true
+    },
+    {
+      "name": "jingran loads",
+      "passed": true
+    },
+    {
+      "name": "jingran correct metadata",
+      "passed": true
+    },
+    {
+      "name": "jingran flip",
+      "passed": true
+    },
+    {
+      "name": "suoming loads",
+      "passed": true
+    },
+    {
+      "name": "suoming correct metadata",
+      "passed": true
+    },
+    {
+      "name": "suoming flip",
+      "passed": true
+    },
+    {
+      "name": "hsin loads",
+      "passed": true
+    },
+    {
+      "name": "hsin correct metadata",
+      "passed": true
+    },
+    {
+      "name": "hsin flip",
+      "passed": true
+    },
+    {
+      "name": "previous selects Suoming",
+      "passed": true
+    },
+    {
+      "name": "history restores Hsin",
+      "passed": true
+    },
+    {
+      "name": "suoming mobile no overflow",
+      "passed": true
+    },
+    {
+      "name": "hsin mobile no overflow",
+      "passed": true
+    },
+    {
+      "name": "no console errors",
+      "passed": true
+    },
+    {
+      "name": "no failed network requests",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "requests": []
+}

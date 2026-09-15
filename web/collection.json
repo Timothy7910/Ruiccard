@@ -1,0 +1,47 @@
+{
+  "name": "靈境典藏",
+  "cards": [
+    {
+      "id": "jingran",
+      "title": "景燃",
+      "english": "JINGRAN",
+      "series": "鳴潮",
+      "role": "尋幽客",
+      "theme": "身赴三途",
+      "quote": "百鬼歸墟，九衢皆塵。",
+      "description": "生於夢州的尋幽客，行走於蜃境與遺墟之間。以雙目窺破萬物餘響與舊世遺痕。",
+      "config": "./card-config.json",
+      "thumbnail": "./assets/subject.png",
+      "number": "001",
+      "palette": "青焰 / 朱紅 / 冷銀"
+    },
+    {
+      "id": "suoming",
+      "title": "鎖暝",
+      "english": "SUOMING",
+      "series": "鳴潮",
+      "role": "夢州州監",
+      "theme": "十重契",
+      "quote": "執著至此，這就是我想要的。",
+      "description": "出身夢州華亭，為解故鄉惡瘴創立禁鎖十契。如今執掌諦天鑑，以契守護夢州。",
+      "config": "./cards/suoming/card-config.json",
+      "thumbnail": "./cards/suoming/assets/subject.png",
+      "number": "002",
+      "palette": "赤黑 / 古銅 / 霜白"
+    },
+    {
+      "id": "hsin",
+      "title": "心",
+      "english": "HSIN",
+      "series": "鳴潮",
+      "role": "夢州歲主",
+      "theme": "萬相分形",
+      "quote": "共守燈火長明",
+      "description": "夢州文明的引導者，喜愛人間歡聚。萬相分形，與人們一同守望長明燈火。",
+      "config": "./cards/hsin/card-config.json",
+      "thumbnail": "./cards/hsin/assets/subject.png",
+      "number": "003",
+      "palette": "曜金 / 朱紅 / 墨黑"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "鎖暝",
+  "subtitle": "夢州州監 · SUOMING",
+  "technique": "十重契",
+  "tagline": "執著至此，這就是我想要的。",
+  "description": "出身夢州華亭，為解故鄉惡瘴創立禁鎖十契。如今執掌諦天鑑，以契守護夢州。",
+  "edition": "002",
+  "collection": "鳴潮 · WUTHERING WAVES",
+  "font": "C:/Windows/Fonts/kaiu.ttf",
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png",
+    "model": "./assets/model.glb"
+  },
+  "parameters": {
+    "subjectScale": 1.3,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.35
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#c79a64",
+    "finish": "original",
+    "background": "#111013"
+  },
+  "gallery": {
+    "english": "SUOMING",
+    "role": "夢州州監",
+    "palette": "赤黑 / 古銅 / 霜白",
+    "series": "鳴潮"
+  },
+  "sources": [
+    {
+      "title": "角色檔案介紹",
+      "url": "https://disp.cc/amp/ACG/idb9"
+    }
+  ]
+}

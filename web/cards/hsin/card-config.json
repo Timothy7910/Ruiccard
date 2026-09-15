@@ -1,0 +1,47 @@
+{
+  "title": "心",
+  "subtitle": "夢州歲主 · HSIN",
+  "technique": "萬相分形",
+  "tagline": "共守燈火長明",
+  "description": "夢州文明的引導者，喜愛人間歡聚。萬相分形，與人們一同守望長明燈火。",
+  "edition": "003",
+  "collection": "鳴潮 · WUTHERING WAVES",
+  "font": "C:/Windows/Fonts/kaiu.ttf",
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png",
+    "model": "./assets/model.glb"
+  },
+  "parameters": {
+    "subjectScale": 1.05,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.35
+  },
+  "safeArea": {
+    "scale": 1.2,
+    "offset": [
+      -0.1,
+      -0.25
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#f3ce83",
+    "finish": "original",
+    "background": "#111013"
+  },
+  "gallery": {
+    "english": "HSIN",
+    "role": "夢州歲主",
+    "palette": "曜金 / 朱紅 / 墨黑",
+    "series": "鳴潮"
+  },
+  "sources": [
+    {
+      "title": "角色檔案介紹",
+      "url": "https://gnn.gamer.com.tw/detail.php?sn=310945"
+    }
+  ]
+}

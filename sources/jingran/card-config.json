@@ -1,0 +1,44 @@
+{
+  "title": "景燃",
+  "subtitle": "尋幽客 · JINGRAN",
+  "technique": "身赴三途",
+  "tagline": "百鬼歸墟，九衢皆塵。",
+  "edition": "001 / 001",
+  "collection": "鳴潮 · WUTHERING WAVES",
+  "description": "生於夢州的尋幽客，行走於蜃境與遺墟之間。百鬼歸墟，九衢皆塵。",
+  "font": "C:/Windows/Fonts/kaiu.ttf",
+  "assets": {
+    "model": "./assets/card.glb",
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png"
+  },
+  "parameters": {
+    "subjectScale": 1.25,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.45
+  },
+  "safeArea": {
+    "scale": 1.0,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "sources": [
+    {
+      "title": "官方共鳴者戰鬥演示｜景燃",
+      "url": "https://www.youtube.com/watch?v=G4kqTjmzE9g"
+    },
+    {
+      "title": "官方遊戲介紹：身赴三途",
+      "url": "https://play.google.com/store/apps/details?hl=zh_TW&id=com.kurogame.wutheringwaves.global"
+    },
+    {
+      "title": "景燃角色資料：尋幽客",
+      "url": "https://wuthering.gg/zh-Hant/characters/jingran"
+    }
+  ]
+}
