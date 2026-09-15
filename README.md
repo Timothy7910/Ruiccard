@@ -18,6 +18,12 @@ node web/server.mjs
 
 ## 專案結構
 
+## Vercel 部署
+
+匯入此儲存庫，Root Directory 保持儲存庫根目錄即可。根目錄的 `vercel.json` 指定 `web` 為靜態輸出目錄，無須安裝依賴或執行建置。若既有專案 Root Directory 已設為 `web`，該目錄亦有對應設定。修改設定後請建立新的 Deployment；舊的部署網址不會更新。
+
+## 檔案
+
 - `web/`：可獨立部署的靜態網站，內含已打包的 JavaScript。
 - `web/collection.json`：典藏目錄。
 - `web/cards/`：新增卡牌的模型、圖層與設定。
