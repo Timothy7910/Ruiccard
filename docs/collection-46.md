@@ -22,3 +22,5 @@
 繁簡文字圖層、設定、角色介紹中的主題與台詞、卡面 PNG、目錄縮圖及 Blender 內嵌文字同步更新。每種語言各 46 張完整 WebGL 卡面，下載圖保留模型卡框。
 
 原始文字資料見 `character-copy-source.txt`，逐卡對應見 `verification/quotes-46/copy-report.json`。雙語載入與 PNG 匯出結果見 `verification/quotes-46/`；新卡互動、目錄和手機版檢查見 `verification/additions/`。
+
+女漂泊者依使用者追加要求改用與男版完全相同的背景；前景縮放至 637×1012，放置於 1024×1536 畫布的 (50,282)，使人物頭部與站位接近男版，露出龍的眼睛與嘴部。繁簡 PNG、縮圖與 Blender 源檔同步更新。
