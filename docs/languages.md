@@ -12,9 +12,9 @@
 ## 完整卡面
 
 - 原有繁體卡面保留。
-- 全部 46 張卡片另有 `text.zh-Hans.png` 文字圖層及 `card-config.zh-Hans.json`。以 OpenCC 轉換原生可編輯文字，再使用支援簡體的楷體與黑體繪製，沒有重繪人物或背景。
+- 全部 52 張卡片另有 `text.zh-Hans.png` 文字圖層及 `card-config.zh-Hans.json`。以 OpenCC 轉換原生可編輯文字，再使用支援簡體的楷體與黑體繪製，沒有重繪人物或背景。
 - 卡背文字由目前語言的設定產生。
-- `collection.zh-Hans.json` 指向簡體卡片、目錄缩圖與下載圖片；`localized/zh-Hans/` 包含 46 張完整 WebGL 卡面 PNG 與縮圖，保留模型金屬框。
+- `collection.zh-Hans.json` 指向簡體卡片、目錄缩圖與下載圖片；`localized/zh-Hans/` 包含 52 張完整 WebGL 卡面 PNG 與縮圖，保留模型金屬框。
 - 網站與完整觀賞介面的動態文字、輔助閱讀標籤及提示由本機 `ui.zh-Hant.json` / `ui.zh-Hans.json` 轉換，不依賴外部翻譯服務。
 - 新增角色或修改文字時，需同步更新兩種語言的設定、文字圖層、UI 字典、縮圖與下載檔。縮圖須從完整 WebGL 卡面匯出，不能只合成貼圖。
 

@@ -1,0 +1,48 @@
+{
+  "title": "莫宁",
+  "subtitle": "热熔共鸣者 · MORNYE",
+  "technique": "诘问群星",
+  "tagline": "启用临界协议",
+  "description": "莫宁「呢绒梦」版本 依使用者提供插画制作人物与场景分层 保留原图姿态与服装细节",
+  "collection": "鸣潮 · WUTHERING WAVES",
+  "edition": "050",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#e7c095",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.zh-Hans.png",
+    "model": "./assets/card.glb"
+  },
+  "gallery": {
+    "english": "MORNYE",
+    "series": "鸣潮",
+    "role": "热熔共鸣者",
+    "palette": "霜白 / 星蓝"
+  },
+  "sources": [
+    {
+      "title": "角色属性图鉴",
+      "url": "https://gachia.com/zh/wuwa/characters"
+    }
+  ],
+  "copySource": "使用者提供的鸣潮角色共鸣解放台词 TXT"
+}

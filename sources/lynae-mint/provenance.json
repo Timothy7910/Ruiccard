@@ -1,0 +1,17 @@
+{
+  "reference": "C:/Users/qwer1/Downloads/1920px-琳奈-薄荷糖.jpg",
+  "method": "Built-in imagegen reference-guided foreground/background atlas; native uniform typography",
+  "prompt": "Reference-preserving layered asset edit for existing 3D card project. Output ONE RGBA PNG LAYER ATLAS, two EXACT equal-width portrait 2:3 panels side by side, total aspect 4:3. LEFT 50%: foreground cutout on GENUINE transparent alpha, NOT checkerboard or colored background. RIGHT 50%: opaque portrait background scene, no foreground person duplicated. Hard exact central split, nothing crosses. ONLY actual central mint-haired woman in original blue mint summer outfit, raised arm with drink can above head, holding green swim ring, sitting/leaning against futuristic motorcycle. Preserve face hair outfit pose age and complete feet/sandals without sexual exaggeration. Include the supporting futuristic motorcycle and held swim ring as coherent foreground, scaled so seated body contact remains natural. Do NOT use the printed portrait poster at bottom left. Right background bright turquoise seaside boardwalk, ocean, blue sky, palms, coastal railings, seabirds. Remove all printed portraits and promotional graphic stickers. Faithfully preserve original central character face, hairstyle, age, clothes, hands, pose and illustration style. Entire body, shoes, fingers and foreground support object must fit with margins, no cut limbs. Recompose background into portrait naturally rather than squeezing horizontally. Remove all source promotional text logos stars borders and layout whitespace. No added lettering or card framing, no fake holographic effects. Leave characters recognizable and foreground support aligned.",
+  "generatedAtlas": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-9efe5e2a-7a9a-4244-bdb5-730a3ece4da3.png",
+  "bodyAnchor": 0.52,
+  "placement": [
+    154,
+    338,
+    688,
+    881
+  ],
+  "cleanBackground": {
+    "generation": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-a3fe8063-6d04-42a0-84e0-86cf89d747db.png",
+    "edit": "Remove entire subject and its support objects from background; preserve environment"
+  }
+}

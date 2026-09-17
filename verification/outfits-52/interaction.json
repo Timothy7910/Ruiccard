@@ -1,0 +1,65 @@
+{
+  "checks": [
+    {
+      "name": "jinhsi-peach correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "changli correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "changli drag changes angle",
+      "pass": true
+    },
+    {
+      "name": "zani-city-tea correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "mornye-wool-dream correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "mornye-wool-dream drag changes angle",
+      "pass": true
+    },
+    {
+      "name": "lynae-mint correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "chisa-peach-ice correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "chisa-peach-ice drag changes angle",
+      "pass": true
+    },
+    {
+      "name": "flip",
+      "pass": true
+    },
+    {
+      "name": "finish control",
+      "pass": true
+    },
+    {
+      "name": "catalogue has 52 cards",
+      "pass": true
+    },
+    {
+      "name": "two Mornye versions",
+      "pass": true
+    },
+    {
+      "name": "mobile no overflow",
+      "pass": true
+    },
+    {
+      "name": "no browser errors",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

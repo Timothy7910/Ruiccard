@@ -1,0 +1,13 @@
+{
+  "reference": "C:/Users/qwer1/Downloads/长离.jpg",
+  "method": "Built-in imagegen reference-guided foreground/background atlas; native uniform typography",
+  "prompt": "Reference-preserving layered asset edit for existing 3D card project. Output ONE RGBA PNG LAYER ATLAS, two EXACT equal-width portrait 2:3 panels side by side, total aspect 4:3. LEFT 50%: foreground cutout on GENUINE transparent alpha, NOT checkerboard or colored background. RIGHT 50%: opaque portrait background scene, no foreground person duplicated. Hard exact central split, nothing crosses. Central red/pink-haired woman SEATED on ornate dark wooden chair, white black red traditional dress, legs angled down, intact black heeled shoes, one arm beside tabletop with small orange flame. Extract woman AND her supporting chair as one foreground unit so hips sit precisely on chair, full chair legs. Keep original seated pose. Right background: airy Chinese study pavilion, guqin instrument table beside seat, hanging painted scrolls, snowy bonsai, misty distant mountains. The chair must appear only in foreground, not duplicated in background. Faithfully preserve original central character face, hairstyle, age, clothes, hands, pose and illustration style. Entire body, shoes, fingers and foreground support object must fit with margins, no cut limbs. Recompose background into portrait naturally rather than squeezing horizontally. Remove all source promotional text logos stars borders and layout whitespace. No added lettering or card framing, no fake holographic effects. Leave characters recognizable and foreground support aligned.",
+  "generatedAtlas": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-1f3e0308-a3f5-4deb-b95b-fc06efed9669.png",
+  "bodyAnchor": 0.52,
+  "placement": [
+    156,
+    300,
+    685,
+    956
+  ]
+}

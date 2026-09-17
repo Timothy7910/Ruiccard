@@ -1,0 +1,17 @@
+{
+  "reference": "C:/Users/qwer1/Downloads/1920px-莫宁-呢绒梦.jpeg",
+  "method": "Built-in imagegen reference-guided foreground/background atlas; native uniform typography",
+  "prompt": "Reference-preserving layered asset edit for existing 3D card project. Output ONE RGBA PNG LAYER ATLAS, two EXACT equal-width portrait 2:3 panels side by side, total aspect 4:3. LEFT 50%: foreground cutout on GENUINE transparent alpha, NOT checkerboard or colored background. RIGHT 50%: opaque portrait background scene, no foreground person duplicated. Hard exact central split, nothing crosses. Use ONLY the SMALL seated lavender-haired young woman on the RIGHT next to giant teddy bear. She wears caramel beret and coat, cream scarf, fitted skirt, pale patterned stockings, complete brown shoes, seated relaxed with head tilted, long lavender ponytail. Keep EXACT small foreground figure identity and pose, NOT the massive amber side-profile behind the layout. Extract her with seat cushion/armchair supporting her and the adjacent teddy bear as a compact coherent foreground seating vignette; preserve original seating contact. Right background is warm cozy reading room, arched window, golden sunlight, plants, books, gramophone and wooden floor. NO giant human portrait in background; foreground seated human must not be duplicated. Faithfully preserve original central character face, hairstyle, age, clothes, hands, pose and illustration style. Entire body, shoes, fingers and foreground support object must fit with margins, no cut limbs. Recompose background into portrait naturally rather than squeezing horizontally. Remove all source promotional text logos stars borders and layout whitespace. No added lettering or card framing, no fake holographic effects. Leave characters recognizable and foreground support aligned.",
+  "generatedAtlas": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-cb8239dd-b7c2-4d3e-a3bd-0608b711df53.png",
+  "bodyAnchor": 0.66,
+  "placement": [
+    99,
+    565,
+    626,
+    685
+  ],
+  "cleanBackground": {
+    "generation": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-84b7f9a1-ac98-4735-b7b1-c5cbdf40d608.png",
+    "edit": "Remove entire subject and its support objects from background; preserve environment"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "reference": "C:/Users/qwer1/Downloads/1920px-千咲-蜜桃冰.jpg",
+  "method": "Built-in imagegen reference-guided foreground/background atlas; native uniform typography",
+  "prompt": "Reference-preserving layered asset edit for existing 3D card project. Output ONE RGBA PNG LAYER ATLAS, two EXACT equal-width portrait 2:3 panels side by side, total aspect 4:3. LEFT 50%: foreground cutout on GENUINE transparent alpha, NOT checkerboard or colored background. RIGHT 50%: opaque portrait background scene, no foreground person duplicated. Hard exact central split, nothing crosses. Original black-haired girl seated/reclining naturally inside yellow floral swim ring, wearing pink summer top, skirt/shorts and pink sandals, one arm raised to hat/headband, knees and legs extended diagonally. Preserve exact age, face, modest original outfit and nonsexual leisurely pool pose. Include entire yellow inflatable ring as foreground seat together with character. All toes and sandals intact. Right background clear blue resort pool, seaside cabana, palms, beach and ocean, pool floats and summer sky. Remove original subject and yellow ring from background to avoid double ring. Faithfully preserve original central character face, hairstyle, age, clothes, hands, pose and illustration style. Entire body, shoes, fingers and foreground support object must fit with margins, no cut limbs. Recompose background into portrait naturally rather than squeezing horizontally. Remove all source promotional text logos stars borders and layout whitespace. No added lettering or card framing, no fake holographic effects. Leave characters recognizable and foreground support aligned.",
+  "generatedAtlas": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-fc8d8aba-2eb3-4433-8383-5abe4d9528a8.png",
+  "bodyAnchor": 0.56,
+  "placement": [
+    108,
+    374,
+    722,
+    807
+  ]
+}

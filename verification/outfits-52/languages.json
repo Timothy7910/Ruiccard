@@ -1,0 +1,61 @@
+{
+  "checks": [
+    {
+      "name": "automatic simplified",
+      "pass": true
+    },
+    {
+      "name": "simplified card front and reverse configuration",
+      "pass": true
+    },
+    {
+      "name": "traditional search in simplified locale",
+      "pass": true
+    },
+    {
+      "name": "simplified catalogue and download assets",
+      "pass": true
+    },
+    {
+      "name": "manual traditional preserves selected card",
+      "pass": true
+    },
+    {
+      "name": "saved preference overrides browser",
+      "pass": true
+    },
+    {
+      "name": "browser zh-TW => zh-Hant",
+      "pass": true
+    },
+    {
+      "name": "browser zh-HK => zh-Hant",
+      "pass": true
+    },
+    {
+      "name": "browser zh-Hans => zh-Hans",
+      "pass": true
+    },
+    {
+      "name": "browser en-US,zh-SG => zh-Hans",
+      "pass": true
+    },
+    {
+      "name": "browser en-US => zh-Hant",
+      "pass": true
+    },
+    {
+      "name": "mobile no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "mobile language selector available",
+      "pass": true
+    },
+    {
+      "name": "no browser errors",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

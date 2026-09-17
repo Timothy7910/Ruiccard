@@ -1,0 +1,366 @@
+[
+  {
+    "id": "jingran",
+    "representative": "尋幽通冥",
+    "quote": "百鬼歸墟九衢皆塵",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "suoming",
+    "representative": "十重契",
+    "quote": "執著至此，這就是我想要的。",
+    "matched": false,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "hsin",
+    "representative": "萬相分形",
+    "quote": "共守燈火長明",
+    "matched": false,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "lingyang",
+    "representative": "醒獅少年",
+    "quote": "獅鼓長鳴禍殃不侵",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "cartethyia",
+    "representative": "流浪騎士",
+    "quote": "此劍斬滅諸惡",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "chisa",
+    "representative": "解弦之眼",
+    "quote": "即刻送往末路",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "lynae",
+    "representative": "絢爛簽名",
+    "quote": "別走神這是最絢爛的一刻",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "ciaccona",
+    "representative": "律繪之詩",
+    "quote": "為你獻上詩與終曲",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "phoebe",
+    "representative": "光明祝頌",
+    "quote": "光輝的結晶啊請降下恩典",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "luuk-herssen",
+    "representative": "慈悲死刑",
+    "quote": "給予永恆寧靜",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "changli-laurel",
+    "representative": "丹煌謀局",
+    "quote": "誰才是樊籠之鳥",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "lupa",
+    "representative": "角逐勝果",
+    "quote": "廝殺此刻開幕",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "jinhsi",
+    "representative": "龍女濟世",
+    "quote": "天憐蒼生諸邪皆除",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "aemeath",
+    "representative": "星海救世",
+    "quote": "救世之刻已至",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "iuno",
+    "representative": "逆命諭女",
+    "quote": "此即月滿之時",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "zani",
+    "representative": "準時下班",
+    "quote": "一起上吧別耽誤我下班",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "lucilla",
+    "representative": "舊憶塑形",
+    "quote": "紛亂的回憶塑形",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "jiyan",
+    "representative": "青龍將軍",
+    "quote": "凌躍千嶂",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "sigrika",
+    "representative": "語義解現",
+    "quote": "點亮語義",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "denia",
+    "representative": "熔光終黯",
+    "quote": "光輝自此消融",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "carlotta-summer",
+    "representative": "榮耀加碼",
+    "quote": "至此藝術已成",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "lucy",
+    "representative": "神經駭入",
+    "quote": "逃離吧直到記憶盡頭",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "cantarella",
+    "representative": "幽海呢喃",
+    "quote": "請收下吧海的呢喃",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "augusta",
+    "representative": "烈陽王道",
+    "quote": "榮冠歸於七丘",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "yinlin",
+    "representative": "懸絲執法",
+    "quote": "懸絲要謝幕了",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "camellya",
+    "representative": "執花狂舞",
+    "quote": "自欺者化作椿花養料",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "carlotta",
+    "representative": "榮耀加碼",
+    "quote": "至此藝術已成",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "hiyuki",
+    "representative": "灼櫻孤雪",
+    "quote": "如行煉獄之上凝視雪花",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "phrolova",
+    "representative": "終末指揮",
+    "quote": "這是枯萎中的綻放",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "shorekeeper",
+    "representative": "星海守望",
+    "quote": "協星調律",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "encore",
+    "representative": "羊咩童話",
+    "quote": "吞到羊咩肚子裡",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "calcharo",
+    "representative": "最強共鳴者",
+    "quote": "苦痛如影隨形",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "rebecca",
+    "representative": "槍火狂歡",
+    "quote": "現在是大槍槍時間",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "qiuyuan",
+    "representative": "藏鋒於竹",
+    "quote": "一斬足矣",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "mornye",
+    "representative": "詰問群星",
+    "quote": "啟用臨界協議",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "zhezhi",
+    "representative": "畫境靈思",
+    "quote": "此為畫中意",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "brant",
+    "representative": "戲焰船長",
+    "quote": "讓火焰再盛大一些",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "galbrena",
+    "representative": "永火獵魔",
+    "quote": "以我步入地獄之門",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "roccia",
+    "representative": "即興舞臺",
+    "quote": "舞臺無處不在",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "xiangli-yao",
+    "representative": "求索真理",
+    "quote": "群星追逐原野",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "yangyang-xuanling",
+    "representative": "蒼翎歸寂",
+    "quote": "蒼翎振翼寂滅爭鳴",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "suisui",
+    "representative": "雲水空明",
+    "quote": "浮雲若朝露過眼即空明",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "qingxiao",
+    "representative": "琴劍雙絕",
+    "quote": "萬念證心一劍清平",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "rover-male",
+    "representative": "彌光迴響",
+    "quote": "回聲於此共鳴",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "rover-female",
+    "representative": "彌光迴響",
+    "quote": "回聲於此共鳴",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "verina",
+    "representative": "草木生長",
+    "quote": "曬足太陽吧",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "jinhsi-peach",
+    "representative": "龍女濟世",
+    "quote": "天憐蒼生諸邪皆除",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "changli",
+    "representative": "丹煌謀局",
+    "quote": "誰才是樊籠之鳥",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "zani-city-tea",
+    "representative": "準時下班",
+    "quote": "一起上吧別耽誤我下班",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "mornye-wool-dream",
+    "representative": "詰問群星",
+    "quote": "啟用臨界協議",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "lynae-mint",
+    "representative": "絢爛簽名",
+    "quote": "別走神這是最絢爛的一刻",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  },
+  {
+    "id": "chisa-peach-ice",
+    "representative": "解弦之眼",
+    "quote": "即刻送往末路",
+    "matched": true,
+    "upperRightAttributeRemoved": true
+  }
+]

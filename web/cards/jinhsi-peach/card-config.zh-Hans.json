@@ -1,0 +1,48 @@
+{
+  "title": "今汐",
+  "subtitle": "衍射共鸣者 · JINHSI",
+  "technique": "龙女济世",
+  "tagline": "天怜苍生诸邪皆除",
+  "description": "今汐「桃夭灼灼」版本 依使用者提供插画制作人物与场景分层 保留原图姿态与服装细节",
+  "collection": "鸣潮 · WUTHERING WAVES",
+  "edition": "047",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#efb8b7",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.zh-Hans.png",
+    "model": "./assets/card.glb"
+  },
+  "gallery": {
+    "english": "JINHSI",
+    "series": "鸣潮",
+    "role": "衍射共鸣者",
+    "palette": "玉白 / 青碧"
+  },
+  "sources": [
+    {
+      "title": "角色属性图鉴",
+      "url": "https://gachia.com/zh/wuwa/characters"
+    }
+  ],
+  "copySource": "使用者提供的鸣潮角色共鸣解放台词 TXT"
+}

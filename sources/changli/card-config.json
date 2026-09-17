@@ -1,0 +1,48 @@
+{
+  "title": "長離",
+  "subtitle": "熱熔共鳴者 · CHANGLI",
+  "technique": "丹煌謀局",
+  "tagline": "誰才是樊籠之鳥",
+  "description": "長離「原版」版本 依使用者提供插畫製作人物與場景分層 保留原圖姿態與服裝細節",
+  "collection": "鳴潮 · WUTHERING WAVES",
+  "edition": "048",
+  "font": "C:/Windows/Fonts/kaiu.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#e3c2aa",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.png",
+    "model": "./assets/card.glb"
+  },
+  "gallery": {
+    "english": "CHANGLI",
+    "series": "鳴潮",
+    "role": "熱熔共鳴者",
+    "palette": "花紅 / 象牙"
+  },
+  "sources": [
+    {
+      "title": "角色屬性圖鑑",
+      "url": "https://gachia.com/zh/wuwa/characters"
+    }
+  ],
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
+}

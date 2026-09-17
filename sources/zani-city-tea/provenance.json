@@ -1,0 +1,13 @@
+{
+  "reference": "C:/Users/qwer1/Downloads/1920px-赞妮_城市午茶.jpg",
+  "method": "Built-in imagegen reference-guided foreground/background atlas; native uniform typography",
+  "prompt": "Reference-preserving layered asset edit for existing 3D card project. Output ONE RGBA PNG LAYER ATLAS, two EXACT equal-width portrait 2:3 panels side by side, total aspect 4:3. LEFT 50%: foreground cutout on GENUINE transparent alpha, NOT checkerboard or colored background. RIGHT 50%: opaque portrait background scene, no foreground person duplicated. Hard exact central split, nothing crosses. Only the central standing silver-haired horned woman wearing sunglasses on head, white ribbed outfit, black cape, red tie, black thigh-high stockings, complete black heels, holding transparent umbrella above with one hand and takeaway drink in other. Preserve bent-leg pose, horns, original face and garment details. Extract character plus umbrella she holds as coherent foreground. Do NOT use giant pale lineart face at far left. Right background urban rooftop terrace red railings, city and turquoise sky, plants, puddles and subtle iridescent reflections; remove all giant decorative portraits. Faithfully preserve original central character face, hairstyle, age, clothes, hands, pose and illustration style. Entire body, shoes, fingers and foreground support object must fit with margins, no cut limbs. Recompose background into portrait naturally rather than squeezing horizontally. Remove all source promotional text logos stars borders and layout whitespace. No added lettering or card framing, no fake holographic effects. Leave characters recognizable and foreground support aligned.",
+  "generatedAtlas": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-79b7f088-c86f-473d-9272-db5196926783.png",
+  "bodyAnchor": 0.53,
+  "placement": [
+    153,
+    278,
+    677,
+    1000
+  ]
+}

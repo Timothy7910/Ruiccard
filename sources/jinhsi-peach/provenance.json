@@ -1,0 +1,13 @@
+{
+  "reference": "C:/Users/qwer1/Downloads/今汐_桃夭灼灼.jpg",
+  "method": "Built-in imagegen reference-guided foreground/background atlas; native uniform typography",
+  "prompt": "Reference-preserving layered asset edit for existing 3D card project. Output ONE RGBA PNG LAYER ATLAS, two EXACT equal-width portrait 2:3 panels side by side, total aspect 4:3. LEFT 50%: foreground cutout on GENUINE transparent alpha, NOT checkerboard or colored background. RIGHT 50%: opaque portrait background scene, no foreground person duplicated. Hard exact central split, nothing crosses. The central pink/silver-haired woman in flowing pale pink traditional dress, delicate floral hair ornaments, one hand raised toward a lantern, complete pink shoes. Preserve full original pose, face and ornate dress. Right background: moonlit circular moon gate, enormous white full moon, peach trees, floating warm lanterns, distant mountain. No duplication of the woman. Faithfully preserve original central character face, hairstyle, age, clothes, hands, pose and illustration style. Entire body, shoes, fingers and foreground support object must fit with margins, no cut limbs. Recompose background into portrait naturally rather than squeezing horizontally. Remove all source promotional text logos stars borders and layout whitespace. No added lettering or card framing, no fake holographic effects. Leave characters recognizable and foreground support aligned.",
+  "generatedAtlas": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-c0b471ab-a633-49d0-8e70-4c08976d0beb.png",
+  "bodyAnchor": 0.53,
+  "placement": [
+    136,
+    297,
+    709,
+    962
+  ]
+}
