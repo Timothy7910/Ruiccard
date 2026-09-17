@@ -1,0 +1,47 @@
+{
+  "title": "锁暝",
+  "subtitle": "梦州州监 · SUOMING",
+  "technique": "十重契",
+  "tagline": "执著至此，这就是我想要的。",
+  "description": "出身梦州华亭，为解故乡恶瘴创立禁锁十契。如今执掌谛天鉴，以契守护梦州。",
+  "edition": "002",
+  "collection": "鸣潮 · WUTHERING WAVES",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.zh-Hans.png",
+    "lineart": "./assets/lineart.png",
+    "model": "./assets/model.glb"
+  },
+  "parameters": {
+    "subjectScale": 1.3,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.35
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#c79a64",
+    "finish": "original",
+    "background": "#111013"
+  },
+  "gallery": {
+    "english": "SUOMING",
+    "role": "梦州州监",
+    "palette": "赤黑 / 古铜 / 霜白",
+    "series": "鸣潮"
+  },
+  "sources": [
+    {
+      "title": "角色档案介绍",
+      "url": "https://disp.cc/amp/ACG/idb9"
+    }
+  ]
+}

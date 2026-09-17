@@ -888,3 +888,5 @@ dialog dd {
     scroll-behavior: auto !important;
   }
 }
+
+.language-switch{display:inline-flex;flex-shrink:0}.language-switch select{color:#e9e3d6;background:#1b222b;border:1px solid #bca88880;border-radius:6px;padding:8px 10px;font:inherit;font-size:12px;cursor:pointer}.language-switch select:focus-visible{outline:2px solid #a0c4bd;outline-offset:3px}html[lang="zh-Hans"] body{font-family:"Noto Serif SC","Songti SC","SimSun",serif}@media(max-width:700px){.mast{flex-wrap:wrap}.language-switch{margin-left:auto}.language-switch select{font-size:12px;padding:7px 8px}}

@@ -1,3 +1,4 @@
+import {configForLocale,languageReady} from './i18n.js';
 import * as THREE from "three";
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
 // Icons are inline data trees (icons.data.js) — zero sub-imports at runtime,
@@ -258,8 +259,9 @@ function notice(message) {
   noticeTimer = setTimeout(() => ($("notice").hidden = true), 2600);
 }
 async function init() {
+  await languageReady;
   refreshIcons();
-  const requestedConfig = new URL(new URLSearchParams(location.search).get('config') || './card-config.json', location.href);
+  const requestedConfig = new URL(configForLocale(new URLSearchParams(location.search).get('config') || './card-config.json'), location.href);
   if (requestedConfig.origin !== location.origin) throw Error('作品設定必須來自同一個展館');
   const response = await fetch(requestedConfig);
   if (!response.ok) throw Error("作品配置未找到");

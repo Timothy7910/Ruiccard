@@ -1,0 +1,47 @@
+{
+  "title": "达妮娅",
+  "subtitle": "热熔共鸣者 · DENIA",
+  "technique": "绯幕绮梦",
+  "tagline": "鸣潮 · 共鸣者典藏",
+  "description": "达妮娅是《鸣潮》的热熔共鸣者。卡面以玫瑰与深红为主色，将人物置中，搭配原图场景重新制作分层景深。「绯幕绮梦」为本典藏的美术题名，非官方招式或台词。",
+  "collection": "鸣潮 · WUTHERING WAVES",
+  "edition": "020",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#e5afc8",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.zh-Hans.png",
+    "model": "./assets/card.glb"
+  },
+  "gallery": {
+    "english": "DENIA",
+    "series": "鸣潮",
+    "role": "热熔共鸣者",
+    "palette": "玫瑰 / 深红"
+  },
+  "sources": [
+    {
+      "title": "角色属性图鉴",
+      "url": "https://gachia.com/zh/wuwa/characters"
+    }
+  ]
+}

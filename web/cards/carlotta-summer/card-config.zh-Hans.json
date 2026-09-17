@@ -1,0 +1,47 @@
+{
+  "title": "珂莱塔",
+  "subtitle": "冷凝共鸣者 · CARLOTTA",
+  "technique": "夏日旖旎",
+  "tagline": "鸣潮 · 共鸣者典藏",
+  "description": "珂莱塔是《鸣潮》的冷凝共鸣者。本张收录「夏日旖旎」服装版本。卡面以海蓝与珊瑚为主色，将人物置中，搭配原图场景重新制作分层景深。",
+  "collection": "鸣潮 · WUTHERING WAVES",
+  "edition": "021",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#a2e0e9",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.zh-Hans.png",
+    "model": "./assets/card.glb"
+  },
+  "gallery": {
+    "english": "CARLOTTA",
+    "series": "鸣潮",
+    "role": "冷凝共鸣者",
+    "palette": "海蓝 / 珊瑚"
+  },
+  "sources": [
+    {
+      "title": "角色属性图鉴",
+      "url": "https://gachia.com/zh/wuwa/characters"
+    }
+  ]
+}

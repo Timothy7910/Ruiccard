@@ -1,0 +1,17 @@
+{
+  "results": [
+    {
+      "title": "锁暝",
+      "lang": "zh-Hans",
+      "selector": "zh-Hans",
+      "text": "http://127.0.0.1:4173/cards/suoming/assets/text.zh-Hans.png"
+    },
+    {
+      "title": "鎖暝",
+      "lang": "zh-Hant",
+      "selector": "zh-Hant",
+      "text": "http://127.0.0.1:4173/cards/suoming/assets/text.png"
+    }
+  ],
+  "errors": []
+}

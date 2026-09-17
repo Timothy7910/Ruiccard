@@ -1,3 +1,6 @@
+// app.js
+import { configForLocale, languageReady } from "./i18n.js";
+
 // node_modules/three/build/three.core.js
 var REVISION = "180";
 var CullFaceNone = 0;
@@ -28420,8 +28423,9 @@ function notice(message) {
   noticeTimer = setTimeout(() => $("notice").hidden = true, 2600);
 }
 async function init() {
+  await languageReady;
   refreshIcons();
-  const requestedConfig = new URL(new URLSearchParams(location.search).get("config") || "./card-config.json", location.href);
+  const requestedConfig = new URL(configForLocale(new URLSearchParams(location.search).get("config") || "./card-config.json"), location.href);
   if (requestedConfig.origin !== location.origin)
     throw Error("作品設定必須來自同一個展館");
   const response = await fetch(requestedConfig);

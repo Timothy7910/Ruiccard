@@ -1,0 +1,47 @@
+{
+  "title": "卡卡罗",
+  "subtitle": "导电共鸣者 · CALCHARO",
+  "technique": "雷夜孤锋",
+  "tagline": "鸣潮 · 共鸣者典藏",
+  "description": "卡卡罗是《鸣潮》的导电共鸣者。卡面以冷银与暗紫为主色，将人物置中，搭配原图场景重新制作分层景深。「雷夜孤锋」为本典藏的美术题名，非官方招式或台词。",
+  "collection": "鸣潮 · WUTHERING WAVES",
+  "edition": "032",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#bbb5db",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.zh-Hans.png",
+    "model": "./assets/card.glb"
+  },
+  "gallery": {
+    "english": "CALCHARO",
+    "series": "鸣潮",
+    "role": "导电共鸣者",
+    "palette": "冷银 / 暗紫"
+  },
+  "sources": [
+    {
+      "title": "角色属性图鉴",
+      "url": "https://gachia.com/zh/wuwa/characters"
+    }
+  ]
+}

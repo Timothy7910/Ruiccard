@@ -1,0 +1,47 @@
+{
+  "title": "绯雪",
+  "subtitle": "冷凝共鸣者 · HIYUKI",
+  "technique": "霜夜孤刃",
+  "tagline": "鸣潮 · 共鸣者典藏",
+  "description": "绯雪是《鸣潮》的冷凝共鸣者。卡面以冰蓝与绯红为主色，将人物置中，搭配原图场景重新制作分层景深。「霜夜孤刃」为本典藏的美术题名，非官方招式或台词。",
+  "collection": "鸣潮 · WUTHERING WAVES",
+  "edition": "028",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#c4c9ee",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.zh-Hans.png",
+    "model": "./assets/card.glb"
+  },
+  "gallery": {
+    "english": "HIYUKI",
+    "series": "鸣潮",
+    "role": "冷凝共鸣者",
+    "palette": "冰蓝 / 绯红"
+  },
+  "sources": [
+    {
+      "title": "角色属性图鉴",
+      "url": "https://gachia.com/zh/wuwa/characters"
+    }
+  ]
+}
