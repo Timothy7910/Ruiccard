@@ -4,10 +4,10 @@
   "prompt": "Create a TWO-PANEL production texture atlas from this EDIT TARGET, two equal portrait panels side by side, overall 4:3 aspect ratio, 2048x1536 if possible. LEFT HALF is an isolated original character with GENUINE TRANSPARENT alpha behind them, preserve exact identity, face, outfit, hair, pose, and held props; complete body centered, all hair/feet inside panel. RIGHT HALF is an OPAQUE portrait background reconstructed from the reference environment and palette but with ALL people removed. No text/logos, borders, labels or panel divider. Left ONLY character and attached accessories, right ONLY empty environment. Never mirror or redesign the character. The left panel silhouette must not cross midpoint. Both panels same size. Leave a little transparent margin around character. This atlas will be separated into subject and background textures, so true alpha on left and opaque pixels on right are essential. Specific subject: Chisa 千咲 black-haired girl seated on bridge holding huge red scissors. Preserve sitting pose and original modest outfit and full legs. Left include scissors but no bridge. Right empty high urban red bridge and pale blue sky.",
   "mode": "Built-in imagegen: two-panel subject/background extraction",
   "centeredBounds": [
-    244,
-    258,
-    669,
-    1040
+    242,
+    337,
+    675,
+    882
   ],
   "copy": "角色名稱及屬性經圖鑑核對；除服裝名稱外，題名皆為原創美術文案。"
 }
