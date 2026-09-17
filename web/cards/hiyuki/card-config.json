@@ -1,9 +1,9 @@
 {
   "title": "緋雪",
   "subtitle": "冷凝共鳴者 · HIYUKI",
-  "technique": "霜夜孤刃",
-  "tagline": "鳴潮 · 共鳴者典藏",
-  "description": "緋雪是《鳴潮》的冷凝共鳴者。卡面以冰藍與緋紅為主色，將人物置中，搭配原圖場景重新製作分層景深。「霜夜孤刃」為本典藏的美術題名，非官方招式或台詞。",
+  "technique": "灼櫻孤雪",
+  "tagline": "如行煉獄之上凝視雪花",
+  "description": "緋雪是《鳴潮》的冷凝共鳴者。卡面以冰藍與緋紅為主色，將人物置中，搭配原圖場景重新製作分層景深。",
   "collection": "鳴潮 · WUTHERING WAVES",
   "edition": "028",
   "font": "C:/Windows/Fonts/kaiu.ttf",
@@ -43,5 +43,6 @@
       "title": "角色屬性圖鑑",
       "url": "https://gachia.com/zh/wuwa/characters"
     }
-  ]
+  ],
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
 }

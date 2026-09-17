@@ -1,9 +1,9 @@
 {
   "title": "忌炎",
   "subtitle": "氣動共鳴者 · JIYAN",
-  "technique": "蒼龍破陣",
-  "tagline": "鳴潮 · 共鳴者典藏",
-  "description": "忌炎是《鳴潮》的氣動共鳴者。卡面以蒼青與玄黑為主色，將人物置中，搭配原圖場景重新製作分層景深。「蒼龍破陣」為本典藏的美術題名，非官方招式或台詞。",
+  "technique": "青龍將軍",
+  "tagline": "凌躍千嶂",
+  "description": "忌炎是《鳴潮》的氣動共鳴者。卡面以蒼青與玄黑為主色，將人物置中，搭配原圖場景重新製作分層景深。",
   "collection": "鳴潮 · WUTHERING WAVES",
   "edition": "018",
   "font": "C:/Windows/Fonts/kaiu.ttf",
@@ -43,5 +43,6 @@
       "title": "角色屬性圖鑑",
       "url": "https://gachia.com/zh/wuwa/characters"
     }
-  ]
+  ],
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
 }

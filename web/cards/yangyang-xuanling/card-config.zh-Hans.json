@@ -1,0 +1,36 @@
+{
+  "title": "秧秧・玄翎",
+  "subtitle": "YANGYANG",
+  "technique": "苍翎归寂",
+  "tagline": "苍翎振翼寂灭争鸣",
+  "description": "依使用者提供的角色插画制作分层卡面 人物置中保留原图姿态",
+  "collection": "鸣潮 · WUTHERING WAVES",
+  "edition": "041",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#9ad9ed",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.zh-Hans.png",
+    "model": "./assets/card.glb"
+  },
+  "copySource": "使用者提供的鸣潮角色共鸣解放台词 TXT"
+}

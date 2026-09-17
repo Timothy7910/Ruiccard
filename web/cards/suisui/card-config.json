@@ -1,0 +1,36 @@
+{
+  "title": "穗穗",
+  "subtitle": "SUISUI",
+  "technique": "雲水空明",
+  "tagline": "浮雲若朝露過眼即空明",
+  "description": "依使用者提供的角色插畫製作分層卡面 人物置中保留原圖姿態",
+  "collection": "鳴潮 · WUTHERING WAVES",
+  "edition": "042",
+  "font": "C:/Windows/Fonts/kaiu.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#e5bd67",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.png",
+    "model": "./assets/card.glb"
+  },
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
+}

@@ -1,11 +1,11 @@
 {
   "title": "景燃",
   "subtitle": "尋幽客 · JINGRAN",
-  "technique": "身赴三途",
-  "tagline": "百鬼歸墟，九衢皆塵。",
+  "technique": "尋幽通冥",
+  "tagline": "百鬼歸墟九衢皆塵",
   "edition": "001 / 001",
   "collection": "鳴潮 · WUTHERING WAVES",
-  "description": "生於夢州的尋幽客，行走於蜃境與遺墟之間。百鬼歸墟，九衢皆塵。",
+  "description": "生於夢州的尋幽客，行走於蜃境與遺墟之間。以雙目窺破萬物餘響與舊世遺痕。",
   "font": "C:/Windows/Fonts/kaiu.ttf",
   "assets": {
     "model": "./assets/card.glb",
@@ -40,5 +40,6 @@
       "title": "景燃角色資料：尋幽客",
       "url": "https://wuthering.gg/zh-Hant/characters/jingran"
     }
-  ]
+  ],
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
 }

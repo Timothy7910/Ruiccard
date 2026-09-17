@@ -1,9 +1,9 @@
 {
   "title": "嘉貝莉娜",
   "subtitle": "熱熔共鳴者 · GALBRENA",
-  "technique": "焰影雙生",
-  "tagline": "鳴潮 · 共鳴者典藏",
-  "description": "嘉貝莉娜是《鳴潮》的熱熔共鳴者。卡面以蒼焰與赤金為主色，將人物置中，搭配原圖場景重新製作分層景深。「焰影雙生」為本典藏的美術題名，非官方招式或台詞。",
+  "technique": "永火獵魔",
+  "tagline": "以我步入地獄之門",
+  "description": "嘉貝莉娜是《鳴潮》的熱熔共鳴者。卡面以蒼焰與赤金為主色，將人物置中，搭配原圖場景重新製作分層景深。",
   "collection": "鳴潮 · WUTHERING WAVES",
   "edition": "038",
   "font": "C:/Windows/Fonts/kaiu.ttf",
@@ -43,5 +43,6 @@
       "title": "角色屬性圖鑑",
       "url": "https://gachia.com/zh/wuwa/characters"
     }
-  ]
+  ],
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
 }

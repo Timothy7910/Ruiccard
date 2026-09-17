@@ -1,0 +1,13 @@
+{
+  "reference": "C:/Users/qwer1/Downloads/漂泊者-男.jpg",
+  "method": "Built-in imagegen reference-guided foreground/background atlas; native editable typography",
+  "prompt": "Use case: background-extraction. Edit the supplied reference into a production LAYER ATLAS for a 3D collectible card. Output ONE wide RGBA PNG with TWO EXACT EQUAL-WIDTH portrait 2:3 panels side by side (total aspect 4:3). LEFT HALF: isolated original foreground character on genuine alpha transparency, centered horizontally, full silhouette, leave modest margin. RIGHT HALF: opaque portrait environment plate, reconstruct scene behind removed foreground character, fill whole right half. Strict straight boundary at exact 50% width, no content crossing. Only the black short-haired MALE human at center-left in black gray combat suit, facing viewer, his right screen hand outstretched palm up with gold light and left screen hand holding sword pointed down. Preserve exact male face, outfit and hand pose. His lower shins are cropped by original image; seamlessly extend matching black boots minimally if necessary. Giant dark gold dragon Jue is BACKGROUND ONLY, retain its recognizable snarling face and turquoise mouth behind him. Preserve illustration rendering style and identity, no fresh redesign. Background should reuse distinctive original setting, intelligently portrait-compose rather than squeeze horizontally. Remove all original graphic text, logos, rating stars, captions and layout margins from both panels. No lettering, no borders, no new holographic effects. LEFT must truly transparent alpha not white, gray or checkerboard painting. RIGHT must fully opaque. Character should be faithful to reference even when tiny; do not mix foreground and background subjects. The resulting two panels will be split and composited programmatically.",
+  "generatedAtlas": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-fcb5c3d4-6d99-444b-b940-b8233848f26e.png",
+  "bodyAnchor": 0.6,
+  "placement": [
+    89,
+    282,
+    705,
+    1012
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "title": "椿",
   "subtitle": "湮滅共鳴者 · CAMELLYA",
-  "technique": "赤椿月下",
-  "tagline": "鳴潮 · 共鳴者典藏",
-  "description": "椿是《鳴潮》的湮滅共鳴者。卡面以朱紅與月白為主色，將人物置中，搭配原圖場景重新製作分層景深。「赤椿月下」為本典藏的美術題名，非官方招式或台詞。",
+  "technique": "執花狂舞",
+  "tagline": "自欺者化作椿花養料",
+  "description": "椿是《鳴潮》的湮滅共鳴者。卡面以朱紅與月白為主色，將人物置中，搭配原圖場景重新製作分層景深。",
   "collection": "鳴潮 · WUTHERING WAVES",
   "edition": "026",
   "font": "C:/Windows/Fonts/kaiu.ttf",
@@ -43,5 +43,6 @@
       "title": "角色屬性圖鑑",
       "url": "https://gachia.com/zh/wuwa/characters"
     }
-  ]
+  ],
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
 }

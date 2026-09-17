@@ -1,9 +1,9 @@
 {
   "title": "安可",
   "subtitle": "熱熔共鳴者 · ENCORE",
-  "technique": "綺夢羊鈴",
-  "tagline": "鳴潮 · 共鳴者典藏",
-  "description": "安可是《鳴潮》的熱熔共鳴者。卡面以櫻粉與奶白為主色，將人物置中，搭配原圖場景重新製作分層景深。「綺夢羊鈴」為本典藏的美術題名，非官方招式或台詞。",
+  "technique": "羊咩童話",
+  "tagline": "吞到羊咩肚子裡",
+  "description": "安可是《鳴潮》的熱熔共鳴者。卡面以櫻粉與奶白為主色，將人物置中，搭配原圖場景重新製作分層景深。",
   "collection": "鳴潮 · WUTHERING WAVES",
   "edition": "031",
   "font": "C:/Windows/Fonts/kaiu.ttf",
@@ -43,5 +43,6 @@
       "title": "角色屬性圖鑑",
       "url": "https://gachia.com/zh/wuwa/characters"
     }
-  ]
+  ],
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
 }

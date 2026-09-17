@@ -1,9 +1,9 @@
 {
   "title": "今汐",
   "subtitle": "衍射共鳴者 · JINHSI",
-  "technique": "龍影浮光",
-  "tagline": "鳴潮 · 共鳴者典藏",
-  "description": "今汐是《鳴潮》的衍射共鳴者。卡面以玉白與青碧為主色，將人物置中，搭配原圖場景重新製作分層景深。「龍影浮光」為本典藏的美術題名，非官方招式或台詞。",
+  "technique": "龍女濟世",
+  "tagline": "天憐蒼生諸邪皆除",
+  "description": "今汐是《鳴潮》的衍射共鳴者。卡面以玉白與青碧為主色，將人物置中，搭配原圖場景重新製作分層景深。",
   "collection": "鳴潮 · WUTHERING WAVES",
   "edition": "013",
   "font": "C:/Windows/Fonts/kaiu.ttf",
@@ -43,5 +43,6 @@
       "title": "角色屬性圖鑑",
       "url": "https://gachia.com/zh/wuwa/characters"
     }
-  ]
+  ],
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
 }

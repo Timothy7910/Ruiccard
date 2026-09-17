@@ -1,9 +1,9 @@
 {
   "title": "露西",
   "subtitle": "衍射共鳴者 · LUCY",
-  "technique": "霓城月影",
-  "tagline": "鳴潮 · 共鳴者典藏",
-  "description": "露西是《鳴潮》的衍射共鳴者。卡面以螢黃與青黑為主色，將人物置中，搭配原圖場景重新製作分層景深。「霓城月影」為本典藏的美術題名，非官方招式或台詞。",
+  "technique": "神經駭入",
+  "tagline": "逃離吧直到記憶盡頭",
+  "description": "露西是《鳴潮》的衍射共鳴者。卡面以螢黃與青黑為主色，將人物置中，搭配原圖場景重新製作分層景深。",
   "collection": "鳴潮 · WUTHERING WAVES",
   "edition": "022",
   "font": "C:/Windows/Fonts/kaiu.ttf",
@@ -43,5 +43,6 @@
       "title": "角色屬性圖鑑",
       "url": "https://gachia.com/zh/wuwa/characters"
     }
-  ]
+  ],
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
 }

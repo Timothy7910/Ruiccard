@@ -1,0 +1,61 @@
+{
+  "checks": [
+    {
+      "name": "yangyang-xuanling correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "suisui correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "qingxiao correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "qingxiao drag changes angle",
+      "pass": true
+    },
+    {
+      "name": "rover-male correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "rover-female correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "verina correct copy and separated depths",
+      "pass": true
+    },
+    {
+      "name": "verina drag changes angle",
+      "pass": true
+    },
+    {
+      "name": "flip",
+      "pass": true
+    },
+    {
+      "name": "finish control",
+      "pass": true
+    },
+    {
+      "name": "catalogue has 46 cards",
+      "pass": true
+    },
+    {
+      "name": "two rover versions",
+      "pass": true
+    },
+    {
+      "name": "mobile no overflow",
+      "pass": true
+    },
+    {
+      "name": "no browser errors",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

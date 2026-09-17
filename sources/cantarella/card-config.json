@@ -1,9 +1,9 @@
 {
   "title": "坎特蕾拉",
   "subtitle": "湮滅共鳴者 · CANTARELLA",
-  "technique": "幽海花冠",
-  "tagline": "鳴潮 · 共鳴者典藏",
-  "description": "坎特蕾拉是《鳴潮》的湮滅共鳴者。卡面以幽藍與藤紫為主色，將人物置中，搭配原圖場景重新製作分層景深。「幽海花冠」為本典藏的美術題名，非官方招式或台詞。",
+  "technique": "幽海呢喃",
+  "tagline": "請收下吧海的呢喃",
+  "description": "坎特蕾拉是《鳴潮》的湮滅共鳴者。卡面以幽藍與藤紫為主色，將人物置中，搭配原圖場景重新製作分層景深。",
   "collection": "鳴潮 · WUTHERING WAVES",
   "edition": "023",
   "font": "C:/Windows/Fonts/kaiu.ttf",
@@ -43,5 +43,6 @@
       "title": "角色屬性圖鑑",
       "url": "https://gachia.com/zh/wuwa/characters"
     }
-  ]
+  ],
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
 }

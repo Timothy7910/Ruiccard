@@ -1,0 +1,13 @@
+{
+  "reference": "C:/Users/qwer1/Desktop/閃卡/batch-cards/additions/1.png",
+  "method": "Built-in imagegen reference-guided foreground/background atlas; native editable typography",
+  "prompt": "Use case: background-extraction. Edit the supplied reference into a production LAYER ATLAS for a 3D collectible card. Output ONE wide RGBA PNG with TWO EXACT EQUAL-WIDTH portrait 2:3 panels side by side (total aspect 4:3). LEFT HALF: isolated original foreground character on genuine alpha transparency, centered horizontally, full silhouette, leave modest margin. RIGHT HALF: opaque portrait environment plate, reconstruct scene behind removed foreground character, fill whole right half. Strict straight boundary at exact 50% width, no content crossing. Only the central full-body pale pink/light blonde-haired young woman, intricate tied hair, black gold teal outfit, lifted hand holding small golden bird, ribbons, black footwear and bent-leg floating pose. Keep actual central face and exact pose. Golden phoenix, pagodas, trees and lanterns stay in background. Preserve illustration rendering style and identity, no fresh redesign. Background should reuse distinctive original setting, intelligently portrait-compose rather than squeeze horizontally. Remove all original graphic text, logos, rating stars, captions and layout margins from both panels. No lettering, no borders, no new holographic effects. LEFT must truly transparent alpha not white, gray or checkerboard painting. RIGHT must fully opaque. Character should be faithful to reference even when tiny; do not mix foreground and background subjects. The resulting two panels will be split and composited programmatically.",
+  "generatedAtlas": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-a8e86b57-b958-4dae-a233-a87a2429e516.png",
+  "bodyAnchor": 0.58,
+  "placement": [
+    120,
+    415,
+    675,
+    746
+  ]
+}

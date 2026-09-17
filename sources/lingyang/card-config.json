@@ -1,9 +1,9 @@
 {
   "title": "凌陽",
   "subtitle": "冷凝共鳴者 · LINGYANG",
-  "technique": "瑞獅踏雲",
-  "tagline": "鳴潮 · 共鳴者典藏",
-  "description": "凌陽是《鳴潮》的冷凝共鳴者。卡面以金雲與朱砂為主色，將人物置中，搭配原圖場景重新製作分層景深。「瑞獅踏雲」為本典藏的美術題名，非官方招式或台詞。",
+  "technique": "醒獅少年",
+  "tagline": "獅鼓長鳴禍殃不侵",
+  "description": "凌陽是《鳴潮》的冷凝共鳴者。卡面以金雲與朱砂為主色，將人物置中，搭配原圖場景重新製作分層景深。",
   "collection": "鳴潮 · WUTHERING WAVES",
   "edition": "004",
   "font": "C:/Windows/Fonts/kaiu.ttf",
@@ -43,5 +43,6 @@
       "title": "角色屬性圖鑑",
       "url": "https://gachia.com/zh/wuwa/characters"
     }
-  ]
+  ],
+  "copySource": "使用者提供的鳴潮角色共鳴解放台詞 TXT"
 }

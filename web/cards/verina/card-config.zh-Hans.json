@@ -1,0 +1,36 @@
+{
+  "title": "维里奈",
+  "subtitle": "VERINA",
+  "technique": "草木生长",
+  "tagline": "晒足太阳吧",
+  "description": "依使用者提供的角色插画制作分层卡面 人物置中保留原图姿态",
+  "collection": "鸣潮 · WUTHERING WAVES",
+  "edition": "046",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#b9d980",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.zh-Hans.png",
+    "model": "./assets/card.glb"
+  },
+  "copySource": "使用者提供的鸣潮角色共鸣解放台词 TXT"
+}
