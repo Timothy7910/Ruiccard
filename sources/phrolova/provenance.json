@@ -4,10 +4,15 @@
   "prompt": "Create a TWO-PANEL production texture atlas from this EDIT TARGET, two equal portrait panels side by side, overall 4:3 aspect ratio, 2048x1536 if possible. LEFT HALF is an isolated original character with GENUINE TRANSPARENT alpha behind them, preserve exact identity, face, outfit, hair, pose, and held props; complete body centered, all hair/feet inside panel. RIGHT HALF is an OPAQUE portrait background reconstructed from the reference environment and palette but with ALL people removed. No text/logos, borders, labels or panel divider. Left ONLY character and attached accessories, right ONLY empty environment. Never mirror or redesign the character. The left panel silhouette must not cross midpoint. Both panels same size. Leave a little transparent margin around character. This atlas will be separated into subject and background textures, so true alpha on left and opaque pixels on right are essential. Specific subject: Phrolova 弗洛洛, ONLY full-body foreground grey-haired woman with red bow and red black dress black tights, preserve her conductor pose. Exclude giant portrait. Right shattered musical hall, flying instruments and red flowers, NO faces or people.",
   "mode": "Built-in imagegen: two-panel subject/background extraction",
   "centeredBounds": [
-    170,
-    274,
-    683,
-    1008
+    152,
+    258,
+    721,
+    1040
   ],
-  "copy": "角色名稱及屬性經圖鑑核對；除服裝名稱外，題名皆為原創美術文案。"
+  "copy": "角色名稱及屬性經圖鑑核對；除服裝名稱外，題名皆為原創美術文案。",
+  "subjectCorrection": {
+    "hint": "Generated images are saved to C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7 as C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-c16a17aa-ac52-4633-bb0e-1b065a82cde7.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "prompt": "EDIT TARGET: this enlarged crop of the ORIGINAL FOREGROUND Phrolova. Extract the ONE complete small full-body woman at the center, NOT the huge cut-off face or hands at the edges/background. Faithfully reproduce the visible woman EXACTLY as she is here: head tilted sideways and slightly down, EYES CLOSED, thick side-swept grey bangs over forehead, NO flower on her head, two heavy thick grey braided hair tails swirling horizontally; torso elegantly leaning, screen-LEFT arm extended outward sideways and slightly downward with palm up, screen-RIGHT arm bent upward with hand beside/above her head. Keep the exact asymmetric red fitted sleeve on left arm, banded red-and-white bare right arm, red high collar and white chest panels, black tailored bodice, long red strips and pale coat tails, black stockings with original lighter oval patch on upper thigh, crossed legs, pointed black/red boots. NO large flower wand, NO front-facing eyes-open portrait, NO added weapon. Clean up only the original low-resolution edges; preserve pose and outfit and silhouette extremely closely. Output a single complete centered character on GENUINE TRANSPARENT RGBA background, with NO colored background, glow, vignette, blur, scenery, background face, text or frame. Portrait canvas 1024x1536. Need true transparent pixels, not black or gradient background. Do not reinterpret the foreground figure using the large background face."
+  },
+  "subjectReference": "Original foreground figure crop only; background portrait excluded."
 }
