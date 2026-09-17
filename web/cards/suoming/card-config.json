@@ -18,7 +18,7 @@
     "subjectScale": 1.3,
     "subjectDepth": 0.4,
     "backgroundDepth": -0.25,
-    "foil": 0.35
+    "foil": 0.45
   },
   "safeArea": {
     "scale": 1,
