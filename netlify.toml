@@ -1,0 +1,5 @@
+# The site is already built; publish the static viewer and card assets.
+[build]
+  base = "."
+  publish = "web"
+  command = ""
