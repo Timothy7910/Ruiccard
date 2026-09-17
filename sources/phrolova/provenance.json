@@ -1,0 +1,13 @@
+{
+  "originalFile": "c8d73d366cca2fba6f50123579a463533493090700560683.jpg@1192w.avif",
+  "generation": "exec-e776383c-a7f5-4863-9e14-2a94608d7176.png",
+  "prompt": "Create a TWO-PANEL production texture atlas from this EDIT TARGET, two equal portrait panels side by side, overall 4:3 aspect ratio, 2048x1536 if possible. LEFT HALF is an isolated original character with GENUINE TRANSPARENT alpha behind them, preserve exact identity, face, outfit, hair, pose, and held props; complete body centered, all hair/feet inside panel. RIGHT HALF is an OPAQUE portrait background reconstructed from the reference environment and palette but with ALL people removed. No text/logos, borders, labels or panel divider. Left ONLY character and attached accessories, right ONLY empty environment. Never mirror or redesign the character. The left panel silhouette must not cross midpoint. Both panels same size. Leave a little transparent margin around character. This atlas will be separated into subject and background textures, so true alpha on left and opaque pixels on right are essential. Specific subject: Phrolova 弗洛洛, ONLY full-body foreground grey-haired woman with red bow and red black dress black tights, preserve her conductor pose. Exclude giant portrait. Right shattered musical hall, flying instruments and red flowers, NO faces or people.",
+  "mode": "Built-in imagegen: two-panel subject/background extraction",
+  "centeredBounds": [
+    170,
+    274,
+    683,
+    1008
+  ],
+  "copy": "角色名稱及屬性經圖鑑核對；除服裝名稱外，題名皆為原創美術文案。"
+}

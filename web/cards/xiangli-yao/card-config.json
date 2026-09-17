@@ -1,0 +1,47 @@
+{
+  "title": "相里要",
+  "subtitle": "導電共鳴者 · XIANGLI YAO",
+  "technique": "方寸星機",
+  "tagline": "鳴潮 · 共鳴者典藏",
+  "description": "相里要是《鳴潮》的導電共鳴者。卡面以霜藍與銀白為主色，將人物置中，搭配原圖場景重新製作分層景深。「方寸星機」為本典藏的美術題名，非官方招式或台詞。",
+  "collection": "鳴潮 · WUTHERING WAVES",
+  "edition": "040",
+  "font": "C:/Windows/Fonts/kaiu.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#b6d9e8",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.png",
+    "model": "./assets/card.glb"
+  },
+  "gallery": {
+    "english": "XIANGLI YAO",
+    "series": "鳴潮",
+    "role": "導電共鳴者",
+    "palette": "霜藍 / 銀白"
+  },
+  "sources": [
+    {
+      "title": "角色屬性圖鑑",
+      "url": "https://gachia.com/zh/wuwa/characters"
+    }
+  ]
+}

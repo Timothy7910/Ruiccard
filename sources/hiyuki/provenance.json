@@ -1,0 +1,13 @@
+{
+  "originalFile": "c5722d498e79e99162320ec6b7a8e95e3493090700560683.jpg@1192w.avif",
+  "generation": "exec-140217a0-5384-485d-a5db-49312754591d.png",
+  "prompt": "Create a TWO-PANEL production texture atlas from this EDIT TARGET, two equal portrait panels side by side, overall 4:3 aspect ratio, 2048x1536 if possible. LEFT HALF is an isolated original character with GENUINE TRANSPARENT alpha behind them, preserve exact identity, face, outfit, hair, pose, and held props; complete body centered, all hair/feet inside panel. RIGHT HALF is an OPAQUE portrait background reconstructed from the reference environment and palette but with ALL people removed. No text/logos, borders, labels or panel divider. Left ONLY character and attached accessories, right ONLY empty environment. Never mirror or redesign the character. The left panel silhouette must not cross midpoint. Both panels same size. Leave a little transparent margin around character. This atlas will be separated into subject and background textures, so true alpha on left and opaque pixels on right are essential. Specific subject: Hiyuki 緋雪 foreground silver-haired swordswoman white top red hakama, complete standing pose holding glowing sword. Only the single foreground woman in left, no ghost portraits. Right icy sakura tree and rocky snowy landscape, remove all background faces and people.",
+  "mode": "Built-in imagegen: two-panel subject/background extraction",
+  "centeredBounds": [
+    159,
+    336,
+    706,
+    883
+  ],
+  "copy": "角色名稱及屬性經圖鑑核對；除服裝名稱外，題名皆為原創美術文案。"
+}

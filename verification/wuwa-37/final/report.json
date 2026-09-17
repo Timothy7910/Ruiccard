@@ -1,0 +1,96 @@
+{
+  "checks": [
+    {
+      "name": "catalog count",
+      "passed": true
+    },
+    {
+      "name": "jingran 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "jingran metadata",
+      "passed": true
+    },
+    {
+      "name": "jingran one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "suoming 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "suoming metadata",
+      "passed": true
+    },
+    {
+      "name": "suoming one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "hsin 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "hsin metadata",
+      "passed": true
+    },
+    {
+      "name": "hsin one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "galbrena 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "galbrena metadata",
+      "passed": true
+    },
+    {
+      "name": "galbrena one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "xiangli-yao 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "xiangli-yao metadata",
+      "passed": true
+    },
+    {
+      "name": "xiangli-yao one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "Wuthering Waves category",
+      "passed": true
+    },
+    {
+      "name": "search finds two costumes",
+      "passed": true
+    },
+    {
+      "name": "empty search state",
+      "passed": true
+    },
+    {
+      "name": "mobile no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "no console errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no network failures",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "requests": []
+}

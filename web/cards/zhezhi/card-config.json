@@ -1,0 +1,47 @@
+{
+  "title": "折枝",
+  "subtitle": "冷凝共鳴者 · ZHEZHI",
+  "technique": "丹青入夢",
+  "tagline": "鳴潮 · 共鳴者典藏",
+  "description": "折枝是《鳴潮》的冷凝共鳴者。卡面以桃粉與玉青為主色，將人物置中，搭配原圖場景重新製作分層景深。「丹青入夢」為本典藏的美術題名，非官方招式或台詞。",
+  "collection": "鳴潮 · WUTHERING WAVES",
+  "edition": "036",
+  "font": "C:/Windows/Fonts/kaiu.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#c3d9be",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.png",
+    "model": "./assets/card.glb"
+  },
+  "gallery": {
+    "english": "ZHEZHI",
+    "series": "鳴潮",
+    "role": "冷凝共鳴者",
+    "palette": "桃粉 / 玉青"
+  },
+  "sources": [
+    {
+      "title": "角色屬性圖鑑",
+      "url": "https://gachia.com/zh/wuwa/characters"
+    }
+  ]
+}

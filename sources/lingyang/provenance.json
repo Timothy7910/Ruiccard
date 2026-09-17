@@ -1,0 +1,13 @@
+{
+  "originalFile": "187c6620bbd238e34cecc58e41f9b3f03493090700560683.jpg@1192w.avif",
+  "generation": "exec-a7aff112-17dc-4513-96a7-dd27855e8eee.png",
+  "prompt": "Create a production texture atlas for a layered 3D character card from this EDIT TARGET. Output exactly TWO equally sized portrait panels side by side, total image aspect 4:3, ideally 2048x1536. LEFT HALF: genuinely transparent RGBA background, isolated original central character and immediately held props ONLY, centered full body, preserve face, outfit, pose and hair as faithfully as possible. Character occupies x15-85% and y15-85% OF LEFT PANEL. RIGHT HALF: opaque atmospheric environment reconstructed from source architecture and palette, remove all characters, remove ALL text/logos. Both halves portrait 2:3. No divider, no frame, no captions, no UI, no labels, no baked rainbow. Left transparency is vital. Right background fills its half edge-to-edge, quieter top and bottom. Character: Lingyang 凌陽, white-haired lion dancer boy holding lion head overhead; preserve lion-dance outfit and raised knee. Left include held lion head, not the large separate lion spirit. Right ancient stone gate, warm parchment and gold clouds, empty central stage. Center person anatomically in LEFT panel with complete silhouette.",
+  "mode": "Built-in imagegen: two-panel subject/background extraction",
+  "centeredBounds": [
+    162,
+    269,
+    700,
+    1017
+  ],
+  "copy": "角色名稱及屬性經圖鑑核對；除服裝名稱外，題名皆為原創美術文案。"
+}

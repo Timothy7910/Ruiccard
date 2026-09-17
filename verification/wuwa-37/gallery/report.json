@@ -1,0 +1,388 @@
+{
+  "checks": [
+    {
+      "name": "catalog count",
+      "passed": true
+    },
+    {
+      "name": "jingran 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "jingran metadata",
+      "passed": true
+    },
+    {
+      "name": "jingran one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "suoming 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "suoming metadata",
+      "passed": true
+    },
+    {
+      "name": "suoming one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "hsin 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "hsin metadata",
+      "passed": true
+    },
+    {
+      "name": "hsin one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "lingyang 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "lingyang metadata",
+      "passed": true
+    },
+    {
+      "name": "lingyang one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "cartethyia 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "cartethyia metadata",
+      "passed": true
+    },
+    {
+      "name": "chisa 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "chisa metadata",
+      "passed": true
+    },
+    {
+      "name": "lynae 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "lynae metadata",
+      "passed": true
+    },
+    {
+      "name": "ciaccona 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "ciaccona metadata",
+      "passed": true
+    },
+    {
+      "name": "phoebe 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "phoebe metadata",
+      "passed": true
+    },
+    {
+      "name": "luuk-herssen 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "luuk-herssen metadata",
+      "passed": true
+    },
+    {
+      "name": "changli-laurel 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "changli-laurel metadata",
+      "passed": true
+    },
+    {
+      "name": "changli-laurel one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "lupa 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "lupa metadata",
+      "passed": true
+    },
+    {
+      "name": "jinhsi 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "jinhsi metadata",
+      "passed": true
+    },
+    {
+      "name": "aemeath 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "aemeath metadata",
+      "passed": true
+    },
+    {
+      "name": "iuno 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "iuno metadata",
+      "passed": true
+    },
+    {
+      "name": "zani 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "zani metadata",
+      "passed": true
+    },
+    {
+      "name": "lucilla 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "lucilla metadata",
+      "passed": true
+    },
+    {
+      "name": "jiyan 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "jiyan metadata",
+      "passed": true
+    },
+    {
+      "name": "sigrika 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "sigrika metadata",
+      "passed": true
+    },
+    {
+      "name": "denia 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "denia metadata",
+      "passed": true
+    },
+    {
+      "name": "carlotta-summer 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "carlotta-summer metadata",
+      "passed": true
+    },
+    {
+      "name": "carlotta-summer one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "lucy 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "lucy metadata",
+      "passed": true
+    },
+    {
+      "name": "cantarella 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "cantarella metadata",
+      "passed": true
+    },
+    {
+      "name": "augusta 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "augusta metadata",
+      "passed": true
+    },
+    {
+      "name": "yinlin 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "yinlin metadata",
+      "passed": true
+    },
+    {
+      "name": "camellya 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "camellya metadata",
+      "passed": true
+    },
+    {
+      "name": "camellya one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "carlotta 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "carlotta metadata",
+      "passed": true
+    },
+    {
+      "name": "hiyuki 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "hiyuki metadata",
+      "passed": true
+    },
+    {
+      "name": "phrolova 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "phrolova metadata",
+      "passed": true
+    },
+    {
+      "name": "shorekeeper 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "shorekeeper metadata",
+      "passed": true
+    },
+    {
+      "name": "encore 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "encore metadata",
+      "passed": true
+    },
+    {
+      "name": "calcharo 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "calcharo metadata",
+      "passed": true
+    },
+    {
+      "name": "rebecca 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "rebecca metadata",
+      "passed": true
+    },
+    {
+      "name": "qiuyuan 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "qiuyuan metadata",
+      "passed": true
+    },
+    {
+      "name": "mornye 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "mornye metadata",
+      "passed": true
+    },
+    {
+      "name": "zhezhi 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "zhezhi metadata",
+      "passed": true
+    },
+    {
+      "name": "brant 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "brant metadata",
+      "passed": true
+    },
+    {
+      "name": "galbrena 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "galbrena metadata",
+      "passed": true
+    },
+    {
+      "name": "roccia 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "roccia metadata",
+      "passed": true
+    },
+    {
+      "name": "xiangli-yao 3D loaded",
+      "passed": true
+    },
+    {
+      "name": "xiangli-yao metadata",
+      "passed": true
+    },
+    {
+      "name": "xiangli-yao one-click PNG",
+      "passed": true
+    },
+    {
+      "name": "Wuthering Waves category",
+      "passed": true
+    },
+    {
+      "name": "search finds two costumes",
+      "passed": true
+    },
+    {
+      "name": "empty search state",
+      "passed": true
+    },
+    {
+      "name": "mobile no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "no console errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no network failures",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "requests": []
+}

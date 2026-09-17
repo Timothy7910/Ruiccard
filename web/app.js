@@ -858,6 +858,7 @@ function saveCard() {
     const originalSize = new THREE.Vector2();
     renderer.getSize(originalSize);
     const originalRatio = renderer.getPixelRatio();
+    const shadowVisible = shadow.visible;
     const bounds = {
       left: camera.left,
       right: camera.right,
@@ -873,6 +874,7 @@ function saveCard() {
     camera.bottom = -captureHeight;
     camera.updateProjectionMatrix();
     try {
+      shadow.visible = false;
       renderer.render(scene, camera);
       const link = document.createElement("a");
       link.download =
@@ -884,6 +886,7 @@ function saveCard() {
       link.click();
       notice("卡片图片已保存");
     } finally {
+      shadow.visible = shadowVisible;
       Object.assign(camera, bounds);
       camera.updateProjectionMatrix();
       renderer.setPixelRatio(originalRatio);

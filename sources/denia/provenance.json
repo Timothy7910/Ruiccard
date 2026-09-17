@@ -1,0 +1,13 @@
+{
+  "originalFile": "9e104fad233e4e2a0ed0d8c04ea39d793493090700560683.jpg@1192w.avif",
+  "generation": "exec-83078418-2ac3-4dad-98a5-53cdf4cdfd63.png",
+  "prompt": "Create a TWO-PANEL production texture atlas from this EDIT TARGET, two equal portrait panels side by side, overall 4:3 aspect ratio, 2048x1536 if possible. LEFT HALF is an isolated original character with GENUINE TRANSPARENT alpha behind them, preserve exact identity, face, outfit, hair, pose, and held props; complete body centered, all hair/feet inside panel. RIGHT HALF is an OPAQUE portrait background reconstructed from the reference environment and palette but with ALL people removed. No text/logos, borders, labels or panel divider. Left ONLY character and attached accessories, right ONLY empty environment. Never mirror or redesign the character. The left panel silhouette must not cross midpoint. Both panels same size. Leave a little transparent margin around character. This atlas will be separated into subject and background textures, so true alpha on left and opaque pixels on right are essential. Specific subject: Denia 達妮婭 pink-haired woman in black-white frilled dress and ribbon heels holding ornate long staff, preserve sitting/floating original pose. Left character and staff only. Right empty crimson theatre curtains, moon bubbles, stage cake and crystalline pink glass, no human portrait.",
+  "mode": "Built-in imagegen: two-panel subject/background extraction",
+  "centeredBounds": [
+    155,
+    377,
+    714,
+    802
+  ],
+  "copy": "角色名稱及屬性經圖鑑核對；除服裝名稱外，題名皆為原創美術文案。"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "麗貝卡",
+  "subtitle": "導電共鳴者 · REBECCA",
+  "technique": "霓虹狂想",
+  "tagline": "鳴潮 · 共鳴者典藏",
+  "description": "麗貝卡是《鳴潮》的導電共鳴者。卡面以螢綠與桃紅為主色，將人物置中，搭配原圖場景重新製作分層景深。「霓虹狂想」為本典藏的美術題名，非官方招式或台詞。",
+  "collection": "鳴潮 · WUTHERING WAVES",
+  "edition": "033",
+  "font": "C:/Windows/Fonts/kaiu.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#d4ed80",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.png",
+    "model": "./assets/card.glb"
+  },
+  "gallery": {
+    "english": "REBECCA",
+    "series": "鳴潮",
+    "role": "導電共鳴者",
+    "palette": "螢綠 / 桃紅"
+  },
+  "sources": [
+    {
+      "title": "角色屬性圖鑑",
+      "url": "https://gachia.com/zh/wuwa/characters"
+    }
+  ]
+}

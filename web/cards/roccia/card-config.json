@@ -1,0 +1,47 @@
+{
+  "title": "洛可可",
+  "subtitle": "湮滅共鳴者 · ROCCIA",
+  "technique": "奇夢舞臺",
+  "tagline": "鳴潮 · 共鳴者典藏",
+  "description": "洛可可是《鳴潮》的湮滅共鳴者。卡面以紫晶與緋紅為主色，將人物置中，搭配原圖場景重新製作分層景深。「奇夢舞臺」為本典藏的美術題名，非官方招式或台詞。",
+  "collection": "鳴潮 · WUTHERING WAVES",
+  "edition": "039",
+  "font": "C:/Windows/Fonts/kaiu.ttf",
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.3
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "edgeColor": "#c9b4ed",
+    "finish": "pearl",
+    "background": "#151922"
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.png",
+    "model": "./assets/card.glb"
+  },
+  "gallery": {
+    "english": "ROCCIA",
+    "series": "鳴潮",
+    "role": "湮滅共鳴者",
+    "palette": "紫晶 / 緋紅"
+  },
+  "sources": [
+    {
+      "title": "角色屬性圖鑑",
+      "url": "https://gachia.com/zh/wuwa/characters"
+    }
+  ]
+}
