@@ -5,10 +5,15 @@
   "generatedAtlas": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-1718a406-1518-4148-a6a0-9c1db1eb9d79.png",
   "bodyAnchor": 0.56,
   "placement": [
-    50,
-    282,
-    637,
-    1012
+    78,
+    280,
+    570,
+    940
   ],
-  "layoutRevision": "User requested female Rover match male placement and expose dragon; use male background and align smaller foreground left"
+  "layoutRevision": "User requested female Rover match male placement and expose dragon; use male background and align smaller foreground left",
+  "feetRepair": {
+    "id": "rover-female",
+    "path": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-3377f48e-a92e-4b1d-bf52-5f551a73669d.png",
+    "prompt": "Precise object edit of supplied transparent character layer. Keep same 2:3 portrait canvas and preserve upper body face hair clothes hands sword pose location and scale EXACTLY. ONLY repair missing lower legs and feet: the female's front boot toe is cut by a straight horizontal crop; complete BOTH black high-heeled boots, complete toes soles and heels, preserve crossed-leg stance. Use empty transparent area below existing cropped legs for extension. Keep body at identical coordinates; do not move head. Entire feet must terminate at least 50px above bottom canvas boundary. Clean isolated character on true transparent alpha PNG. Remove the accidental thin vertical colored strip at far right of the male cutout. No new background or text, no changes to gender face pose or anatomy above knee. This is a small outpainting repair, not a redesign."
+  }
 }

@@ -1,0 +1,12 @@
+[
+  {
+    "locale": "zh-Hant",
+    "fontSize": 112,
+    "missingGlyphs": []
+  },
+  {
+    "locale": "zh-Hans",
+    "fontSize": 112,
+    "missingGlyphs": []
+  }
+]

@@ -5,9 +5,14 @@
   "generatedAtlas": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-fcb5c3d4-6d99-444b-b940-b8233848f26e.png",
   "bodyAnchor": 0.6,
   "placement": [
-    89,
-    282,
-    705,
-    1012
-  ]
+    140,
+    280,
+    553,
+    940
+  ],
+  "feetRepair": {
+    "id": "rover-male",
+    "path": "C:\\Users\\qwer1\\.codex\\generated_images\\01a0a49b-b247-7a01-b377-41b1e0ead9b7\\exec-102f8d34-ef41-45f3-a18e-cdd50979325e.png",
+    "prompt": "Precise object edit of supplied transparent character layer. Keep same 2:3 portrait canvas and preserve upper body face hair clothes hands sword pose location and scale EXACTLY. ONLY repair missing lower legs and feet: the male's shins end at a straight horizontal crop; extend both lower legs with matching black strapped combat boots, complete anatomical feet soles and toe tips, one boot slightly behind the other according to existing standing pose. Use empty transparent area below existing cropped legs for extension. Keep body at identical coordinates; do not move head. Entire feet must terminate at least 50px above bottom canvas boundary. Clean isolated character on true transparent alpha PNG. Remove the accidental thin vertical colored strip at far right of the male cutout. No new background or text, no changes to gender face pose or anatomy above knee. This is a small outpainting repair, not a redesign."
+  }
 }
